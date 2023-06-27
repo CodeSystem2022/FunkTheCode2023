@@ -34,7 +34,7 @@ import ar.com.system2023.mundopc.*;
         //probar de esta manera los metodos al maximo rendimiento
         //Codigo CATRIEL
 
-        
+/*        
 package mundoPC;
 
 import ar.com.system2023.mundopc.*;
@@ -63,6 +63,7 @@ import ar.com.system2023.mundopc.*;
         
         orden1.mostrarOrden();
         orden2.mostrarOrden();
+        */
         
         //crear mas objetos de tipo computadora con todos sus elementos
         //completar en el orden1 que llegue a los 10 elementos
