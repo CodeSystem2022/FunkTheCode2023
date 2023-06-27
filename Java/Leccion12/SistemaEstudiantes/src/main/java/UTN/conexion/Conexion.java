@@ -27,6 +27,7 @@ public class Conexion {
 }
 */
 //Codigo Danilo
+/*
 package UTN.conexion;
 
 import java.sql.Connection;
@@ -53,4 +54,5 @@ public class Conexion {
     }//Fin metodo Connection
 
 }
+*/
 //Codigo Sebastian
