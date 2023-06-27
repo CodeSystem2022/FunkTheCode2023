@@ -1,4 +1,4 @@
-let x = 10; //variable de tipo primitiva
+let x = 10; //variable de tipo primitiva.
 console.log(x.length);
 console.log("tipos primitivos");
 //objeto
@@ -9,12 +9,12 @@ let persona = {
     edad: 28,
     idioma: 'es',
     get lang(){
-        return this.idioma.toUpperCase(); // convierte las minusculas a mayusculas
+        return this.idioma.toUpperCase(); // convierte las minusculas a mayusculas.
     },
     set lang(lang){
         this.idioma = lang.toUpperCase();
     },
-    nombreCompleto: function(){ // metodo a funcion en JavaScript
+    nombreCompleto: function(){ // metodo a funcion en JavaScript.
         return this.nombre+' '+this.apellido;
     },
     get nombreEdad(){
@@ -40,14 +40,14 @@ console.log("creamos un nuevo objeto");
 console.log(persona['apellido']); // accedemos como si fuera un arreglo 
 
 console.log("usamos el ciclo for in")
-//for in y accedemos al objeto como si fuera un arreglo
+//for in y accedemos al objeto como si fuera un arreglo.
 for(propiedad in persona){
     console.log(propiedad)
     console.log(persona[propiedad]);
 }
 
 console.log("cambiamos y eliminamos un error");
-persona.apellida = 'Betancud'; //cambiamos dinamicamente el valor de un objeto
+persona.apellida = 'Betancud'; //cambiamos dinamicamente el valor de un objeto.
 delete persona.apellida; // eliminamos el error
 console.log(persona);
 
