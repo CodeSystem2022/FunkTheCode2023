@@ -14,6 +14,8 @@ public class TestModificadoresAcceso {
     }
 }
 */ 
+//Codigo Catriel
+/*
 package test;
 
 import paquete1.Clase1;
@@ -28,3 +30,5 @@ public class TestModificadoresAcceso {
         System.out.println("claseHija = " + claseHija);
     }
 }
+*/
+//Codigo Sebastian
