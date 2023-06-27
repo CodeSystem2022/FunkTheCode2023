@@ -17,14 +17,26 @@ import psycopg2  #Esto es para pode conectarnos a Postgre
 #--DELETE FROM persona WHERE id_persona = 3
 
 
-
+'''
 conexion = psycopg2.connect(
     user='postgres',
     password='admin',
     host='127.0.0.1',
     port='5432',
     database='test_bd'
+)'''
+
+#--------------Añado mi codigo andres montes------------------------
+import psycopg2 # conectamos postgre
+
+conexion = psycopg2.connect(
+    user = 'postgres',
+    password='Manaos.22',
+    host='127.0.0.1',
+    port='5432',
+    database='test_bd'
 )
+#-------------------------------------------------------------------
 
 try:
     with conexion:
