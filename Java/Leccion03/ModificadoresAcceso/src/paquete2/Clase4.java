@@ -53,7 +53,7 @@ public class Clase4 {
     public String getAtributoPrivate() {
         return atributoPrivate;
     }
-    */
+  
 
     public void setAtributoPrivate(String atributoPrivate) {
         this.atributoPrivate = atributoPrivate;
