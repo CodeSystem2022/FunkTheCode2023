@@ -36,3 +36,26 @@ console.log(sumando(1, 2))
 // OUTPUT: 1 2 5
 console.log(sumando(6))
 // OUTPUT: 6 undefined NaN
+
+
+//funciones flecha
+
+const sumarFuncionFlecha = (a, b) => a + b;
+resultado = sumarFuncionFlecha(3, 7); //asignamos el valor a una variable
+console.log(resultado);
+/*
+lo que no se utiliza para la funcion flecha
+no usamos la palabra function
+no se utilizan llaves
+no se utiliza la palabra return
+
+otro ejemplo :
+
+const double = num => num*2;
+console.log(double(3))
+*/
+
+
+
+
+
