@@ -96,7 +96,6 @@ let madre = new Persona3("Laura", "Contrera","contreraL@gmail.com");
 console.log(madre);
 console.log(madre.telefono); // la propiedad no esta definida
 console.log(madre.nombreCompleto());
-
 //diferentes foras de crear objetos
 //caso numero 1
 let miObjeto = new Object(); // esta es un opcion formal
