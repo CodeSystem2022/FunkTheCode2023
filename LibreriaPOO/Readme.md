@@ -1,5 +1,5 @@
 PROYECTO INTEGRADOR PYTHON
-Libreria virtual :tw-1f4da: :tw-1f4bb:
+Libreria virtual 
 
 ------------
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMml1eTh6ZGRvMjhzbmUxZWJpNXp2YXBnY2Fqb2dlbWRxOWdiYnpkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif)
