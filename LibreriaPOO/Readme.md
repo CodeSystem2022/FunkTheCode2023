@@ -1,5 +1,5 @@
-##PROYECTO INTEGRADOR PYTHON
-### Libreria virtual :tw-1f4da: :tw-1f4bb:
+PROYECTO INTEGRADOR PYTHON
+Libreria virtual :tw-1f4da: :tw-1f4bb:
 
 ------------
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMml1eTh6ZGRvMjhzbmUxZWJpNXp2YXBnY2Fqb2dlbWRxOWdiYnpkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif)
@@ -22,8 +22,8 @@ El programa fue desarrollado en el lenguaje Python y conectado tambien a la base
 ------------
 
 
-####:fa-graduation-cap: Todos los integrantes de este grupo , han participado en la realización de éste proyecto.
+Todos los integrantes de este grupo , han participado en la realización de éste proyecto.
 
 ------------
-##### Grupo: Funk the code.
+Grupo: Funk the code.
 
