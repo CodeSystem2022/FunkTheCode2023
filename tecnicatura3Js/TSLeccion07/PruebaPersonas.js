@@ -1,4 +1,4 @@
-/*
+//Codigo persona
 class Persona{
 
     static contadorPersonas = 0;
@@ -126,4 +126,4 @@ console.log(cliente1.toString());
 
 let cliente2 = new Cliente('Natalia', 'Ortega', 22, new Date());
 console.log(cliente1.toString());
-*/
+
