@@ -1,0 +1,14 @@
+//      ____  ______           _      _______ _             _____          _       
+//     / / / |  ____|         | |    |__   __| |           / ____|        | |      
+//    / / /  | |__ _   _ _ __ | | __    | |  | |__   ___  | |     ___   __| | ___  
+//   / / /   |  __| | | | '_ \| |/ /    | |  | '_ \ / _ \ | |    / _ \ / _` |/ _ \ 
+//  / / /    | |  | |_| | | | |   <     | |  | | | |  __/ | |___| (_) | (_| |  __/ 
+// /_/_/     |_|   \__,_|_| |_|_|\_\    |_|  |_| |_|\___|  \_____\___/ \__,_|\___| 
+//
+//
+// ¡Bienvenidos a nuestro proyecto Python FunkTheCode 2023! Python es un lenguaje de programación versátil y de alto nivel que se destaca por su simplicidad y legibilidad. 
+// Ampliamente utilizado en diversas áreas, desde desarrollo web y científico hasta inteligencia artificial y automatización, 
+// Python ofrece una sintaxis clara y concisa que facilita la escritura de código eficiente y mantenible. 
+// Python se ha convertido en una opción popular para construir aplicaciones robustas y escalables. 
+// Además, su comunidad activa y amigable fomenta el aprendizaje y la colaboración. 
+// Unite a nosotros y descubrí el fascinante mundo de Python!

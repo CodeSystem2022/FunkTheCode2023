@@ -1,0 +1,11 @@
+//      ____  ______           _      _______ _             _____          _       
+//     / / / |  ____|         | |    |__   __| |           / ____|        | |      
+//    / / /  | |__ _   _ _ __ | | __    | |  | |__   ___  | |     ___   __| | ___  
+//   / / /   |  __| | | | '_ \| |/ /    | |  | '_ \ / _ \ | |    / _ \ / _` |/ _ \ 
+//  / / /    | |  | |_| | | | |   <     | |  | | | |  __/ | |___| (_) | (_| |  __/ 
+// /_/_/     |_|   \__,_|_| |_|_|\_\    |_|  |_| |_|\___|  \_____\___/ \__,_|\___| 
+//
+//
+// ¡Bienvenidos a nuestro proyecto Java FunkTheCode 2023! Java es un lenguaje de programación versátil y poderoso que se utiliza ampliamente en el desarrollo de software. Con su enfoque en la 
+// portabilidad, seguridad y simplicidad, Java permite a los desarrolladores crear aplicaciones robustas y escalables en diversas plataformas. Unite a nosotros y descubrí el fascinante mundo de 
+// Java! :)

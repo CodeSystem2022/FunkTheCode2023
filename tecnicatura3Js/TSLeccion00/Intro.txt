@@ -1,0 +1,13 @@
+//      ____  ______           _      _______ _             _____          _       
+//     / / / |  ____|         | |    |__   __| |           / ____|        | |      
+//    / / /  | |__ _   _ _ __ | | __    | |  | |__   ___  | |     ___   __| | ___  
+//   / / /   |  __| | | | '_ \| |/ /    | |  | '_ \ / _ \ | |    / _ \ / _` |/ _ \ 
+//  / / /    | |  | |_| | | | |   <     | |  | | | |  __/ | |___| (_) | (_| |  __/ 
+// /_/_/     |_|   \__,_|_| |_|_|\_\    |_|  |_| |_|\___|  \_____\___/ \__,_|\___| 
+//
+//
+// ¡Bienvenidos a nuestro proyecto JavaScript FunkTheCode 2023! JavaScript es un lenguaje de programación muy popular que se utiliza principalmente en el desarrollo web. 
+// Con JavaScript, los desarrolladores pueden crear interactividad y dinamismo en las páginas web, lo que brinda una experiencia de usuario más enriquecedora. 
+// Además, JavaScript es un lenguaje versátil y flexible que se ejecuta en el lado del cliente, lo que significa que no se requiere ninguna configuración especial en el servidor. 
+// JavaScript ofrece una amplia gama de bibliotecas y frameworks que facilitan el desarrollo rápido y eficiente de aplicaciones web. 
+// Unite a nosotros y descubrí el fascinante mundo de Javascript!
