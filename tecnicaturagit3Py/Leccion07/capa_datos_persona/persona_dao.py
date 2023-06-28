@@ -84,6 +84,7 @@ if __name__ == '__main__':
         log.debug(persona)
 """
 # codigo catriel 
+"""
 from capa_datos_persona.Persona import Persona
 from capa_datos_persona.conexion import Conexion
 from logger_base import log
