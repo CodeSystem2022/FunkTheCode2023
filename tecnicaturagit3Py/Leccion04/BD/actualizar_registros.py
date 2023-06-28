@@ -21,4 +21,3 @@ except Exception as e:
 finally:
     conexion.close()
 
-# https_//www.psycopg.org/focs/usage.html
