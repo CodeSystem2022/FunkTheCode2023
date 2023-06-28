@@ -82,7 +82,6 @@ class Empleado extends Persona{ //Clase Hija
         return super.nombreCompleto()+', '+this._departamento;
     }
 }
-
 let persona1 = new Persona('Martin', 'Perez');
 //console.log(persona1);
 console.log(persona1.nombre);
