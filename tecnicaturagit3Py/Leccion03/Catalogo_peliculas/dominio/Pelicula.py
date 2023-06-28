@@ -6,9 +6,8 @@ class Pelicula:
         return f'Pelicula: {self._nombre}'
 
     @property
-    def nombre(self):
+    def nombre (self):
         return self._nombre
-
     @nombre.setter
     def nombre(self, nombre):
         self._nombre = nombre

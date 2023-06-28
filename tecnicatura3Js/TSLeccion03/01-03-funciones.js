@@ -17,3 +17,9 @@ function miFuncion(a, b) { // PARAMETROS
   Si por MALA PRACTICA la invocamos ANTES de declararla, tenemos HOISTING
   */
   miFuncion(5,4) // 5 y 4 son los ARGUMENTOS
+
+//Codigo de Matias Diaz de Otazu
+//Funciones tipo Self e Invoking
+(function(a,b){
+    console.log('Ejecutando Funcion:' + (a + b));
+})(10,2);

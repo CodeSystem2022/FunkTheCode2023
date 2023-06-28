@@ -58,6 +58,10 @@ https://www.youtube.com/watch?v=Q1kHG842HoI&t=8s&ab_channel=SuperSimpleDev
 GIT Cheatsheet:
 https://supersimpledev.github.io/references/git-github-reference.pdf
 
+
+Conexion a GitHub: commit, push y merge
+https://www.youtube.com/watch?v=FTLWQJDPnw8&ab_channel=AndresMontes
+
 Organización del proyecto:
 https://www.youtube.com/watch?v=bzHYkub5ffo&ab_channel=AndresMontes
 

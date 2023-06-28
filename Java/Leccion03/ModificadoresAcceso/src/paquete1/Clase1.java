@@ -1,20 +1,22 @@
 package paquete1;
 
 public class Clase1 {
-  public String atributoPublic = "valor atributo public";
-  protected String atrivutoProtected= "valor atributo protected";
-          
-  public Clase1(){
-            System.out.println("constructor public");
-  }
-  public Clase1(String atrivutoPublic){
-            System.out.println("constructor protected");
-  }
-  
-  public void metodoPublico(){
-      System.out.println("Metodo Public");
-  }
-  protected void metodoProtected(){
-      System.out.println("Metodo protected");
-  }
+    public String atributoPublic = "Valor atributo public";
+    protected String atributoProtected = "valor atributo protected";
+    
+    public Clase1(){
+        System.out.println("Constructor publico");
+    }
+    
+    protected Clase1(String atributoPublic){
+        System.out.println("Constructor protected");
+    }
+    
+    public void metodoPublico(){
+        System.out.println("Metodo public");
+    }
+    
+    protected void metodoProtected() {
+        System.out.println("Metodo protected");
+    }
 }

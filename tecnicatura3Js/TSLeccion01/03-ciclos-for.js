@@ -1,4 +1,5 @@
-//CICLO: FOR
+
+//Manejo del for each
 for(let contando = 0; contando < 3; contando++){
     console.log(contando);
 }

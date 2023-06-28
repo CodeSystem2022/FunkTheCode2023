@@ -10,11 +10,11 @@ class Persona:
 
     def __str__(self):
         return f'''
-            Id Persona: {self._id_persona},
+            ID persona: {self._id_persona},
             Nombre: {self._nombre},
             Apellido: {self._apellido},
             Email: {self._email}
-        '''
+            '''
 
     # Metodos Getters and Setters
     @property
@@ -53,8 +53,8 @@ class Persona:
 if __name__ == '__main__':
     persona1 = Persona(1, 'Juan', 'Perez', 'jperez@mail.com')
     log.debug(persona1)
-    persona2 = Persona(nombre='Jose', apellido='Lopez', email='jlopez@mail.com')
+    persona2 = Persona(nombre='Jose', apellido='Lepez',
+                       email='jlepez@mail.com')
     log.debug(persona2)
     persona1 = Persona(id_persona=1)
     log.debug(persona1)
-
