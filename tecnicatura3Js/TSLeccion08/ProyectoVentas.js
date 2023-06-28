@@ -1,4 +1,4 @@
-
+/*
 class Producto{
     static contadorProductos = 0;
     constructor(nombre, precio){
