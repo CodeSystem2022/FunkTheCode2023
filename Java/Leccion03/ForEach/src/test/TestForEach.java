@@ -1,4 +1,4 @@
-/*
+
 package test;
 
 import domain.Persona;
@@ -18,4 +18,4 @@ public class TestForEach {
         }
     }
 }
-*/
+
