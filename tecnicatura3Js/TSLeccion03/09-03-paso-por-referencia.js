@@ -12,6 +12,7 @@ const persona = {
     p1.apellido = 'Perez'
   }
   
+  
   cambiarObjeto(persona)
   console.log("persona luego de cambiarObjeto: ")
   console.group(persona)
