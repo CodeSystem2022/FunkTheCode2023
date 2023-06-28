@@ -11,4 +11,4 @@
 // Python ofrece una sintaxis clara y concisa que facilita la escritura de código eficiente y mantenible. 
 // Python se ha convertido en una opción popular para construir aplicaciones robustas y escalables. 
 // Además, su comunidad activa y amigable fomenta el aprendizaje y la colaboración. 
-// Unite a nosotros y descubrí el fascinante mundo de Python!
+// Unite a nosotros y descubrí el fascinante mundo de Python! :)
