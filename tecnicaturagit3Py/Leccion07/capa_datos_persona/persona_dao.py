@@ -1,3 +1,4 @@
+# Código Bárbara 
 from conexion import Conexion
 from Persona import Persona
 from logger_base import log
