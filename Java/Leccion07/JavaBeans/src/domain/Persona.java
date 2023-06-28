@@ -1,39 +1,88 @@
 
+// package domain;
+
+// import java.io.Serializable;
+
+// public class Persona implements Serializable {
+//     private String nombre;
+//     private String apellido;
+//     // constructor vacio: esto es obligatorio
+//     public Persona(){
+        
+//     }
+    
+//     public Persona(String nombre, String apellido){
+//         this.nombre = nombre;
+//         this.apellido = apellido;
+//     }
+
+//     public String getNombre() {
+//         return nombre;
+//     }
+
+//     public void setNombre(String nombre) {
+//         this.nombre = nombre;
+//     }
+
+//     public String getApellido() {
+//         return apellido;
+//     }
+
+//     public void setApellido(String apellido) {
+//         this.apellido = apellido;
+//     }
+
+//     @Override
+//     public String toString() {
+//         return "Persona{" + "nombre=" + nombre + ", apellido=" + apellido + '}';
+//     }
+    
+// }
+
+
 package domain;
 
 import java.io.Serializable;
 
 public class Persona implements Serializable {
+    
     private String nombre;
+    
     private String apellido;
-    // constructor vacio: esto es obligatorio
+    
     public Persona(){
         
     }
     
-    public Persona(String nombre, String apellido){
+    public Persona(String nombre, String apellido)
+    {
         this.nombre = nombre;
         this.apellido = apellido;
     }
 
-    public String getNombre() {
+    public String getNombre() 
+    {
         return nombre;
     }
 
-    public void setNombre(String nombre) {
+    public void setNombre(String nombre) 
+    {
         this.nombre = nombre;
     }
 
-    public String getApellido() {
+    public String getApellido() 
+    {
         return apellido;
     }
 
-    public void setApellido(String apellido) {
+    public void setApellido(String apellido) 
+    {
         this.apellido = apellido;
     }
 
     @Override
-    public String toString() {
+    public String toString() 
+    {
         return "Persona{" + "nombre=" + nombre + ", apellido=" + apellido + '}';
     }
     
