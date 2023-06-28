@@ -8,7 +8,7 @@ class Persona{ //Clase padre
     static get MAX_OBJ(){ //Este metodo simula una constante
         return 5
     }
-/*codigo andres montes --------------------------------------------------------
+
     constructor(nombre, apellido){
         this._nombre = nombre;
         this._apellido = apellido;
@@ -19,17 +19,8 @@ class Persona{ //Clase padre
         }
 
         //console.log('Se incremento el contador: ' +Persona.contadorObjetosPersona);
-    }*/
-    constructor(nombre, apellido){
-        this._nombre = nombre;
-        this._apellido = apellido;
-        if(Persona.contadorPersonas < Persona.MAX_OBJ){
-            this.idPersona = ++Persona.contadorPersonas;
-        } else {
-            console.log("Se ha superado el maximo de Objetos permitidos");
-        }
+    }
 
-        //console.log('Se incremento el contador: ' +Persona.contadorObjetosPersona);
     get nombre() {
         return this._nombre;
     }
@@ -123,21 +114,3 @@ console.log(Empleado.contadorObjetosPersona);
 console.log(persona1.email);
 console.log(empleado1.email);
 //console.log(Persona.email); No se puede acceder desde la Clase
-
-console.log(persona1.toString());
-console.log(persona2.toString());
-console.log(empleado1.toString());
-console.log(Persona.contadorPersonas);
-
-let persona3 = new Persona('Carla', 'Pertosi');
-console.log(persona3.toString());
-console.log(Persona.contadorPersonas);
-
-console.log(Persona.MAX_OBJ);
-Persona.MAX_OBJ = 10; //Al ser constante no podemos modificarlo
-
-let persona4 = new Persona('Franco', 'Diaz');
-console.log(persona4.toString());
-
-let persona5 = new Persona('Liliana', 'Paz')
-console.log(persona5.toString());
