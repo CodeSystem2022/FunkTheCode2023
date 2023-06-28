@@ -1,4 +1,4 @@
-# Declaramos una variable
+# Declaramos una variable ---------codigo Andres Montes
 try:
     archivo = open('prueba.txt', 'w', encoding='utf8')  # La w es de write, utf8 para los acentos
     archivo.write('Programamos con diferentes tipos de archivos, ahora en txt. \n')
