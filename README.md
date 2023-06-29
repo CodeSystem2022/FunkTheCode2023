@@ -6,23 +6,23 @@
 
 > ## **Integrantes**:
 
-- #### 1-Jonathan Catriel Quintana
-- #### 2-Carla Fuschino
-- #### 3-María Bárbara Herrera
-- #### 4-Nicolás Rizo Avellaneda
-- #### 5-Andrés Montes
-- #### 6-Danilo Profita
-- #### 7-Sebastián Bustamante
-- #### 8-Matias Diaz de Otazu
+- #### 1 - Jonathan Catriel Quintana
+- #### 2 - Carla Fuschino
+- #### 3 - María Bárbara Herrera
+- #### 4 - Nicolás Rizo Avellaneda
+- #### 5 - Andrés Montes
+- #### 6 - Danilo Profita
+- #### 7 - Sebastián Bustamante
+- #### 8 - Matias Diaz de Otazu
 
-> ## _Materias._:
+> ## _Materias_:
 
 ```
 Laboratorio  III: Python y JavaScript 🐍 🌐 
 Programación III: Java ☕
 ```
 
-> ## _Organización Semanal._:
+> ## _Organización Semanal_:
 
 ```
 | Semana    | Delegad@                    | 
@@ -40,7 +40,7 @@ __________________________________________|
 | Semana 11 | **Danilo Profita**          | 
 ```
 
-> ## _Links relevantes._:
+> ## _Links relevantes_:
 
 ```
 Tutoriales GITHUB
@@ -72,7 +72,7 @@ https://www.youtube.com/watch?v=nOR-zkqrXfE&ab_channel=AndresMontes
 
 ```
 
-> ## _Lenguajes Utilizados._:
+> ## _Lenguajes Utilizados_:
 >
 > ![py](https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47vscbxnqi6yxok229ruj0sc0xhakpf7wc4n8ob62l&rid=giphy.gif&ct=g.gif)
 
