@@ -45,7 +45,7 @@ __________________________________________|
 ```
 Tutoriales GITHUB
 
-pt1
+pt1:
 https://www.youtube.com/watch?v=hrTQipWp6co&ab_channel=SuperSimpleDev
 
 pt2:
