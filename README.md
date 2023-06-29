@@ -1,12 +1,12 @@
 # _Grupo:_ **Funk the code** ⚡
 
-#### _Repositorio del tercer semestre 2023- Utn San Rafael- Programación._
+#### _Repositorio del tercer semestre 2023 - Utn San Rafael- Programación._
 
 ![funk the code](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjIxZTQ1MGFiMWZhNjgzNWY0NjM5NmM5YTU4MmYwMDBiMGJkYTY1ZSZjdD1n/FoVzfcqCDSb7zCynOp/giphy.gif)
 
 > ## **Integrantes**:
 
-- #### 1- Jonathan Catriel Quintana
+- #### 1-Jonathan Catriel Quintana
 - #### 2-Carla Fuschino
 - #### 3-María Bárbara Herrera
 - #### 4-Nicolás Rizo Avellaneda
