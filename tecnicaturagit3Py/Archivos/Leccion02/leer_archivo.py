@@ -1,3 +1,4 @@
+# Lectura de archivos - Bárbara
 # 'r' read, 'a' append, 'w' write, 'x'
 # En caso de no trabajar en la misma carpeta se debe especificar donde esta el archivo "c:/prueba.."
 archivo = open('prueba.txt', 'r', encoding='utf8')  # r - Read
