@@ -14,3 +14,21 @@ public class TestJavaBeans {
         System.out.println("Persona apellido: "+persona.getApellido());
     }
 }
+
+/*Codigo de Matias Diaz de Otazu
+
+package test;
+
+import domain.Persona;
+
+public class TestJavaBeans {
+    public static void main(String[] args) {
+        Persona persona = new Persona();
+        persona.setNombre("Juan");
+        persona.setApellido("Perez");
+        System.out.println("persona = " + persona);
+        
+        System.out.println("Persona nombre: "+persona.getNombre());
+        System.out.println("Persona apellido: "+persona.getApellido());
+    }
+}*/
