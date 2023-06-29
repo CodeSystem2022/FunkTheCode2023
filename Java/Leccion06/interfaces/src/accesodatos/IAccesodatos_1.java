@@ -12,3 +12,13 @@ package accesodatos;
 interface IAccesodatos {
     
 }
+/*Codigo de Matias Diaz de Otazu
+package accesodatos;
+
+/**
+ *
+ * @author MatiasDiazdeOtazu
+ */
+interface IAccesodatos {
+    
+}*/
