@@ -114,16 +114,16 @@ public class EstudianteDAO {
             return true;
         }catch (Exception e){
             System.out.println("Error al modificar estudiante: " + e.getMessage());
-        }// Fin catch
+        }
         finally {
             try{
                 con.close();
             }catch (Exception e ){
                 System.out.println("Error al cerrar la conexion: " + e.getMessage());
-            }// Fin catch
-        }// Fin finally
+            }
+        }
         return false;
-    }// Fin metodo modificarEstudiante
+    }
     
 
     public static void main(String[] args) {
